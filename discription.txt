@@ -1,0 +1,3 @@
+Art Brokerage provides customers the ability to browse 
+what they want and assists to compare each cost by sorting artists and art pieces by different characteristic.
+We are the link between the artist and the customer.
